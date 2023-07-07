@@ -1,0 +1,28 @@
+.navbar-collapse{
+    color: #167324;
+    
+}
+
+.icon{
+    margin-right: 15px;
+    color:#F27405;
+}
+.pesquisa{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.box{
+    border: 1px solid #167324;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.imagem{
+    width: 50%;
+    max-height: 50%;
+    display: flex;
+    text-align: center;
+    margin:auto
+
+}
